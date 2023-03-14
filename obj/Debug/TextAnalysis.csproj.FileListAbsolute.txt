@@ -1,0 +1,14 @@
+C:\Users\босс\Desktop\ulearn\text\bin\Debug\HarryPotterText.txt
+C:\Users\босс\Desktop\ulearn\text\bin\Debug\TextAnalysis.exe.config
+C:\Users\босс\Desktop\ulearn\text\bin\Debug\TextAnalysis.exe
+C:\Users\босс\Desktop\ulearn\text\bin\Debug\TextAnalysis.pdb
+C:\Users\босс\Desktop\ulearn\text\bin\Debug\nunit.framework.dll
+C:\Users\босс\Desktop\ulearn\text\bin\Debug\nunitlite.dll
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.csproj.SuggestedBindingRedirects.cache
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.csproj.CopyComplete
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.exe
+C:\Users\босс\Desktop\ulearn\text\obj\Debug\TextAnalysis.pdb
