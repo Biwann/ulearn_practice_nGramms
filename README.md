@@ -1,4 +1,4 @@
-# ulearn_practice_nGramms
-ulearn practice about n-gramms and text analysis
+## ulearn_practice_nGramms
+# ulearn practice about n-gramms and text analysis
 
-I code everything except tests
+This program reads the text and makes n-gramms, based on which is able to continue your phrase with the most popular consequences
